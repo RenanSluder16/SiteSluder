@@ -7,7 +7,7 @@
 	<meta charset="utf-8">
 	<title>.: Renan Ramos :.</title>
 </head>
-<body style="background-image: url('<?php echo base_url('public/img/fundo.png'); ?>'); background-repeat: repeat">
+<body style="background-image: '<?php echo base_url('public/img/fundo.png'); ?>'; background-repeat: repeat">
 <div id="container">
 	<div>
 		<center><br /><br />
